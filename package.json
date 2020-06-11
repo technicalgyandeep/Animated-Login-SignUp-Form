@@ -1,0 +1,11 @@
+{
+  "name": "animated-login",
+  "version": "1.0.0",
+  "description": "This is an Animated Login Form",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Techy Hunt",
+  "license": "ISC"
+}
